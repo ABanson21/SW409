@@ -1,0 +1,10 @@
+ul{
+  list-style-type: none;
+  font-family: Bahnschrift;
+}
+.row, .col{
+ grid-row: 1 / 2;
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+}
