@@ -1,0 +1,20 @@
+
+th{
+   padding: inherit;
+   text-align: justify;
+   background-color: black;
+   font-family: Bahnschrift;
+}
+
+ table{
+   padding: inherit;
+   text-align: justify;
+   background-color: lightslategrey;
+   font-family: Bahnschrift;
+ }
+
+ p{
+   padding: inherit;
+   text-align: justify;
+   font-family: Bahnschrift;
+ }
